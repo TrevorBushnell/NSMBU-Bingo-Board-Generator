@@ -83,7 +83,7 @@ public class Main
         
 
         System.out.println("\nBingo board created. You can find the requested bingo board");
-        System.out.println("within the file called \"BINGOCARD.txt\"\n");
+        System.out.println("within the file called \"BINGOCARD.json\"\n");
         System.out.println("Thank you for using this program. If you want to create another");
         System.out.println("bingo card, please re-run the program.");
         System.out.println("\nEnjoy the game! :)\n\n");

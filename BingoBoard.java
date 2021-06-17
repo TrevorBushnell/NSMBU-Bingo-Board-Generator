@@ -89,13 +89,21 @@ public class BingoBoard
     */
     public void generateBingoCard(ArrayList<String> goals) throws FileNotFoundException
     {
-        PrintStream out = new PrintStream(new File("BINGOCARD.txt"));
+        PrintStream out = new PrintStream(new File("BINGOCARD.json"));
 
         out.println("[");
 
         for (int i = 0; i < goals.size(); i++)
         {
-            out.println("{\"name\": \"" + goals.get(i) + "},");
+            if (i == goals.size() - 1)
+            {
+                out.println("{\"name\": \"" + goals.get(i) + "\"}");
+            }
+
+            else
+            {
+                out.println("{\"name\": \"" + goals.get(i) + "\"},");
+            }
         }
 
         out.println("]");
