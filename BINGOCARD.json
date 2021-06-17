@@ -1,5 +1,4 @@
 [
-<<<<<<< HEAD
 {"name": "Beat 4-5 Damageless"},
 {"name": "Beat 6-7 Damageless"},
 {"name": "Beat 7-T Damageless"},
@@ -25,31 +24,4 @@
 {"name": "All Exits in 6-T1"},
 {"name": "All Exits in 7-GH"},
 {"name": "Kill Two Baby Yoshis"}
-=======
-  { "name": "Beat 2-6 Damageless" },
-  { "name": "Beat 4-3 Damageless" },
-  { "name": "Beat 5-7 Damageless" },
-  { "name": "Beat 3-3" },
-  { "name": "Beat 3-4" },
-  { "name": "Defeat Larry" },
-  { "name": "Defeat Iggy" },
-  { "name": "Defeat Ludwig" },
-  { "name": "Clear 4 Levels in W3 While Collecting Every Star Coin" },
-  { "name": "Clear 4 Levels in W5 While Collecting Every Star Coin" },
-  { "name": "Clear 3 Levels in W7 While Collecting Every Star Coin" },
-  { "name": "Clear 4 Levels in W7 While Collecting Every Star Coin" },
-  { "name": "Collect 10 Star Coins in W1" },
-  { "name": "Collect 6 Star Coins in W8" },
-  { "name": "Beat Every Stage in W1" },
-  { "name": "Beat Every Stage in W4" },
-  { "name": "Beat Every Stage in W6" },
-  { "name": "Complete 7 Levels While Collecting All Star Coins" },
-  { "name": "Complete 12 Levels While Collecting All Star Coins" },
-  { "name": "Clear 5 Tower/Castle/Airship Levels" },
-  { "name": "Catch Nabbit 2 times" },
-  { "name": "Collect 4 Powerups on the World Map" },
-  { "name": "All Exits in 5-GH" },
-  { "name": "All Exits in 6-T1" },
-  { "name": "All Exits in 8-1" }
->>>>>>> 56cc24a75ed5388918318c198a99e3d580e2713c
 ]
